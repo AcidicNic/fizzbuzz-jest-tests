@@ -1,19 +1,31 @@
 # fizzbuzz-jest-tests
 
+### Setup
+
 ```bash
-npm run start
+git clone https://github.com/AcidicNic/fizzbuzz-jest-tests.git
+cd fizzbuzz-jest-tests/
+npm i
 ```
+
+---
+
+### Scripts
 
 * To run src/index.js
 
 ```bash
-npm run test
+npm run start
 ```
 
 * To run unit tests
 
 ```bash
-npm run lint
+npm run test
 ```
 
 * To run eslint
+
+```bash
+npm run lint
+```
